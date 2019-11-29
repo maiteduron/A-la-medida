@@ -61,7 +61,7 @@ footer h2{
 
 .btn-amarillo{
 	background-color: transparent;
-	color: black;
+	color: #f7b818;
 	text-transform: uppercase;
 	font-size: 12px;
 	padding: 10px 30px;
@@ -81,3 +81,43 @@ footer{
 	padding: 3% 0 2%;
 	
 }
+ .parrafo{
+	margin-top: 50%;
+	
+}
+
+
+#bio-1, #bio-3, #bio-2{
+	background-color: rgba(224,222,222,1.00);
+}
+
+#contact{
+	background-color: #000;
+	padding-top: 15px;
+}
+#contact h3{
+	color: #fff;
+}
+#contact p{
+	color: #fff;
+}
+.form-group{
+	color: #fff;
+	border-color: #f7b818;
+	border-radius: 10%;
+	background-color: transparent;
+}
+
+#Celular,#nombre,#correo,#Cuidad,#disenadores,#mensaje{
+	border-color: #f7b818;
+	background-color: transparent;
+}
+#foto{
+
+}
+
+#intro{
+	margin-top: 5%
+}
+	
+
